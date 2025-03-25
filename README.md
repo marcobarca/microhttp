@@ -108,12 +108,6 @@ int main() {
 
 ---
 
-## Credits
-
-Developed for learning purposes by Marco, with inspiration from Express.js and raw socket programming.
-
----
-
 ## License
 
 MIT License — free to use, modify and share.
