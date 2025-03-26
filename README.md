@@ -1,7 +1,7 @@
 # MicroHTTP
 
 **MicroHTTP** is a minimalist HTTP server written in pure C with no external dependencies.  
-It's designed for educational purposes or lightweight embedded use cases, allowing you to understand how HTTP servers work under the hood.
+It's mainly designed for educational purposes or lightweight embedded use cases, allowing you to understand how HTTP servers work under the hood.
 
 ---
 
